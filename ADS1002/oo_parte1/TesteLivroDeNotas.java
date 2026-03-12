@@ -1,5 +1,3 @@
-package ADS1002.oo_parte1;
-
 public class TesteLivroDeNotas {
     public static void main(String[] args) {
         int[] notas1 = {1,2,3};

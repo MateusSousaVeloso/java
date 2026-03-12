@@ -1,5 +1,3 @@
-package ADS1002.oo_parte1;
-
 import java.util.Arrays;
 
 public class LivroDeNotas {

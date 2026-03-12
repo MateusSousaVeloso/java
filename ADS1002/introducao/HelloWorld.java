@@ -1,5 +1,3 @@
-package ADS1002.introducao;
-
 //print("Hello, World")
 
 public class HelloWorld {
